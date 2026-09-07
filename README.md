@@ -1,2 +1,2 @@
 # parteIndividualReact-Riveros
-Carpeta con práctica de REACT 
+Carpeta con práctica de REACT- Actividad J
